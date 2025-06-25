@@ -19,6 +19,7 @@ import Wallet from './pages/Wallet';
 function App() {
   return (
     <GoogleOAuthProvider clientId="652588095833-i8les8t9c8t5dknp5c19tt9i8l46gq75.apps.googleusercontent.com">
+
       <LanguageProvider>
         <AuthProvider>
           <CartProvider>
